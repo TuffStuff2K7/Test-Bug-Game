@@ -37,7 +37,6 @@ function draw() {
 
   background("#EEEEEE");  
   drawSprites();
-  textFont(font);
 
   //text(mouseX + " " + mouseY, mouseX, mouseY);
 
